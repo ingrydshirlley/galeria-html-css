@@ -1,3 +1,5 @@
-# galeria-html-css
-Como fazer uma galeira de imagens utilizando apenas HTML e CSS
+# Galeria HTML/CSS
+Como fazer uma galeira de imagens utilizando apenas HTML e CSS.
 
+﻿# Resultado:
+![](Gravando.gif)
